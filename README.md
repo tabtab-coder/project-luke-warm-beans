@@ -1,5 +1,13 @@
 # Luke Warm Beans - UImpactify
 
+members:
+- caseploeg
+- darryI
+- gordielsky
+- josephboychuk
+- ObaidaSaleh
+- tabtab-coder
+
 An e-learning platform providing credible and relevant courses that teach valuable skills to all people in the social work ecosystem. This platform should bring together educators, students, and organizations in one community, improving the general quality of work in the ecosystem while reducing the financial burden on organizations and individuals.
 
 ## Getting Started
