@@ -1,0 +1,219 @@
+.home-colour {
+  background: #a772e4;
+}
+
+.HomePage {
+  width: 100%;
+  height: auto;
+  background-color: #fafafa;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("../../fonts/Open_Sans/OpenSans-Regular.ttf");
+}
+
+/* =============== First Section =============== */
+.firstSection {
+  width: 100%;
+  height: 450px;
+  display: block;
+}
+
+.firstSectionText {
+  width: 50%;
+  height: 450px;
+  display: inline-block;
+}
+
+.HomePageSmallText {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 15px;
+  color: rgba(192, 186, 186, 0.87);
+  margin: auto;
+  padding: 120px 0 5px 80px;
+}
+
+.HomePageRequestDemoText {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 15px;
+  color: #3E4345;
+  margin: 0 0 0 50px;
+  display: inline;
+}
+
+.HomePageText {
+  /* float: left; */
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  /* text-align: center; */
+  color: rgba(0, 0, 0, 0.87);
+  margin: auto;
+  padding: 0 0 30px 80px;
+}
+
+.firstSectionButton {
+  margin: 0 0 120px 80px !important;
+}
+
+.HomePageCircle {
+  height: 400px;
+  width: 400px;
+  display: inline;
+  background-image: url("./homepageCircle.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  float: right;
+  margin-right: 40px;
+}
+.HomePageIMac {
+  height: 300px;
+  width: 300px;
+  display: inline;
+  background-image: url("./homepageIMac.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  float: right;
+  margin: 80px 50px 0 0;
+}
+
+/* =============== Second Section =============== */
+.secondSection {
+  width: 100%;
+  height: 600px;
+  background-color: #E2F4F4;
+  display: block;
+  text-align: center;
+  border-radius: 6em;
+}
+
+.HomePageAbout {
+  height: 400px;
+  width: 800px;
+  display: inline-block;
+  background-image: url("./homepageAbout.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+/* =============== Third Section =============== */
+.thirdSection {
+  width: 100%;
+  height: 1000px;
+  display: block;
+  text-align: center;
+  border-radius: 6em;
+}
+
+.HomePageServe {
+  height: 400px;
+  width: 800px;
+  display: inline-block;
+  background-image: url("./homepageServe.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 20px;
+}
+
+.HomePageTestimonials {
+  height: 400px;
+  width: 800px;
+  display: inline-block;
+  background-image: url("./homepageTestimonials.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 15px;
+}
+
+/* =============== Footer =============== */
+.footer {
+  width: 100%;
+  height: 290px;
+  box-shadow: 0 0 0 1px rgba(217, 217, 217,0.5);
+  background-color: #F5F5F5;
+  position: relative;
+  z-index: 1;
+}
+
+.footerImg {
+  width: 20%;
+  float: left;
+  display: inline-block;
+}
+
+#footerLogo {
+  float: left;
+  height: 80px;
+  margin: 88px 0 0 110px;
+}
+
+.footerText {
+  width: 80%;
+  margin-top: 20px;
+  /* float: right; */
+  text-align: center;
+  display: inline-block;
+  font-family: OpenSans;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.footerColumn {
+  width: 23.3%;
+  float: left;
+  font-weight: 500;
+}
+
+.languageSelect {
+  height: 30px;
+  width: 110px;
+  background-color: rgba(227, 201, 241, 0.3);
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+/* =============== Buttons =============== */
+button {
+  border: 2px solid #A78EC3;
+  border-radius: 6px;
+  background: #A78EC3;
+  color: #ffffff;
+  display: inline-block;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  padding: 10px 15px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 2px 0 rgba(59, 56, 56, 0.5);
+}
+
+[type=submit] {
+  border: 2px solid #a153d4;
+  border-radius: 6px;
+  background: #A78EC3;
+  color: #ffffff;
+  display: inline-block;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+button:hover, [type=submit]:hover {
+  border: 2px solid #A78EC3;
+  background: #8956c4;
+  color: #ffffff;
+}
+/* =============== Buttons =============== */

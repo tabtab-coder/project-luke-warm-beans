@@ -1,0 +1,14 @@
+.dashboard-course-card {
+    padding: 20px 20px 13px 20px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    border-radius: 6px;
+    background-color: #e6d8f7;
+    min-width: 500px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #ffffff;
+    font-family: OpenSans;
+    background-image: url("./DashboardCourseCardBG.svg");
+}

@@ -1,0 +1,63 @@
+.info-text {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  padding: 10px 0 10px;
+}
+
+.info-header {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  padding: 10px 0 10px;
+}
+
+.profilePictureContainer {
+  padding: 10px 10px 10px 10px;
+  border-radius: 50%;
+  background-color: #EAE4F9;
+  border: 1.5px solid transparent;
+  margin-left: auto;
+  margin-right: auto;
+  width: 205px;
+  height: 205px;
+  margin-bottom: 20px;
+}
+
+.profilePicture {
+  width: 200px;
+  height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+  border-radius: 50%;
+
+}
+
+.upload-section {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  padding: 10px 0 10px;
+}
+
+.file-upload {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  display: flex;
+}

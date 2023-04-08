@@ -1,0 +1,27 @@
+.coursePage {
+    width: 100%;
+    background-color: #f3fafa;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.landingInfo {
+    font-family: OpenSans;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.leaveFeedback {
+    margin-bottom: 20px;
+}
+
+.comments {
+    padding: 20px;
+}
+
+
+.courseEndorsers {
+    display: flex;
+}

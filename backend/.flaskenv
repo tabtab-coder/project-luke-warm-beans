@@ -1,0 +1,2 @@
+FLASK_APP=uimpactify
+FLASK_ENV=development

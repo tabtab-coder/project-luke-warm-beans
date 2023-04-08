@@ -1,0 +1,18 @@
+#enrolButton {
+    float: right;
+    padding: 10px 30px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#enrolledMessage {
+    font-size: 20px;
+    line-height: 46px;
+    color: rgb(11, 104, 11);
+}
+
+#errorMessage {
+    font-size: 20px;
+    line-height: 46px;
+    color: red;
+}

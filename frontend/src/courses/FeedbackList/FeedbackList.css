@@ -1,0 +1,33 @@
+.userComment{
+    /* padding: 10px; */
+    padding: 20px 20px 30px 20px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #EAE4F9;
+    width: 1100px;
+    display: flex;
+    flex-direction: column;
+    /* keep a transparent border always so that the content
+     doesn't shift when border is added on hover */
+    border: 1.5px solid transparent;
+    font-family: OpenSans;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.commenter{
+    font-size: 2em;
+}
+
+.comment{
+    padding: 0px 20px;
+}
+
+.feedbackProfilePicture{
+    width: 102px;
+    height: 107px;
+    border-radius: 50%;
+    background-color: #d6ccff;
+    padding: 3px;
+    object-fit: cover;
+}

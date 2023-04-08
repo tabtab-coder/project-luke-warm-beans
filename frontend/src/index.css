@@ -1,0 +1,6 @@
+/* These are root styles for the project, and will get applied first when components are rendered (and can be easily overridden!).
+   The styles that get put here should be entirely general. 
+*/
+body {
+  background-color: #ffffff;
+}

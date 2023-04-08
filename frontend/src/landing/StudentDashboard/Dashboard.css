@@ -1,0 +1,28 @@
+.student-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f3fafa;
+    width: 100%;
+    padding: 20px 0 100px 0;
+}
+
+#student { 
+    align-self: flex-end;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+blockquote {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.float-right {
+    float: right;
+}

@@ -1,0 +1,70 @@
+[
+    {
+      "id": 0,
+      "name": "Quiz 1",
+      "quizQuestions": [
+        {
+          "question": "sqrt of 2",
+          "answer": 3,
+          "index": 0,
+          "options": [
+            {
+              "index": 0,
+              "option": "2"
+            },
+            {
+              "index": 1,
+              "option": "1"
+            },
+            {
+              "index": 2,
+              "option": "1.7"
+            },
+            {
+              "index": 3,
+              "option": "1.4"
+            }
+          ]
+        },
+        {
+          "question": "sqrt of 3",
+          "index": 1,
+          "answer": 2,
+          "options": [
+            {
+              "index": 0,
+              "option": "2"
+            },
+            {
+              "index": 1,
+              "option": "1"
+            },
+            {
+              "index": 2,
+              "option": "1.7"
+            },
+            {
+              "index": 3,
+              "option": "1.4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "course": 1
+    },
+    {
+        "id": 1,
+        "name": "Quiz 2",
+        "quizQuestions": [],
+        "published": true,
+        "course": 1
+      },
+    {
+      "id": 2,
+      "name": "Quiz 3",
+      "quizQuestions": [],
+      "published": true,
+      "course": 1
+    }
+  ]

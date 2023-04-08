@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Advanced Fortnite Building II",
+        "objective": "To build dank houses in fortnite and to learn the powers of friendship, love, and deception hahahahhahahahahahahahahhahhhhhhhh",
+        "learningOutcomes": "git gud",
+        "instructor": "Mr Beast",
+        "published": true
+    },
+    {
+        "id": 1,
+        "name": "Dynamic Animal Rescue",
+        "objective": "save the beens",
+        "learningOutcomes": "git gud",
+        "instructor": "Ninja",
+        "published": true
+    },
+    {
+        "id": 2,
+        "name": "Intro to Tree Cutting",
+        "objective": "build a nice wood cabin",
+        "learningOutcomes": "git gud",
+        "instructor": "Tyler1",
+        "published": true
+    }
+]

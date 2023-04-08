@@ -1,0 +1,14 @@
+[
+    {
+        "username": "batu",
+        "email": "batu@gmail.com",
+        "password": "123456",
+        "phone": "123456789012345",
+        "roles": {
+            "admin": false,
+            "instructor": true,
+            "organization": false,
+            "student": true
+        }
+    }
+]

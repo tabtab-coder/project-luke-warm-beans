@@ -1,0 +1,29 @@
+.CreateCoursePage {
+    width: 100%;
+    background-color: #f3fafa;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+
+.forms { 
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.tabs {
+    width: 1135px;
+    font-family: OpenSans;
+    background: #FFFFFF;
+    margin-bottom: -15px;
+    padding: 20px 20px 30px 20px;
+    border-radius: 20px 20px 0px 0px;
+    z-index: 2;
+}
+
+.tabs button { 
+    margin: 0.5em;
+    /* all: initial; */
+    /* background-color: black; */
+}

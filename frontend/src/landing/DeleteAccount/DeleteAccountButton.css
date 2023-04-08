@@ -1,0 +1,11 @@
+.deleteAccButton {
+    text-transform: uppercase;
+    border: none !important;
+    background-color: #cc0707 !important;
+    padding: 13px 16px;
+    font-weight: 900;
+}
+
+.deleteAccButton:hover {
+    background-color: #af0505 !important;
+}

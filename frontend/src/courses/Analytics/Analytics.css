@@ -1,0 +1,19 @@
+.analytics-card {
+  width: 1135px;
+  /* White Base */
+
+  background: #FFFFFF;
+  /* White Base */
+
+  margin: 20px;
+  padding: 20px 20px 30px 20px;
+  border-radius: 20px;
+  font-family: OpenSans;
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+  flex-direction: column;
+  box-shadow: 0px 8px 16px rgba(137, 176, 175, 0.25);
+  word-wrap: break-word; 
+  margin: auto;
+}
